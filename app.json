@@ -9,26 +9,26 @@
     "success_url": "https://telegram.dog/CrazeBots",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "17185487",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "0b0dc99c0dad94b2b03557abb606a339",
             "value": ""
         },
         "TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "5475568472:AAGePPoS8vtEoY3rZw7tfxYbRjFWD-h6mo8",
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID"
+            "description":"5283449801"
         },
         "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "mongodb+srv://Admin_Fazer123:<Pass_FAZER133>@cluster0.35svh.mongodb.net/?retryWrites=true&w=majority",
             "value": ""
         },
         "DB_NAME":{ 
-               "description":"Your Mongo DB Database Name ",
+               "description":"infinityrename",
                 "value": "my",
                 "required": false
         }
